@@ -1,2 +1,0 @@
-# Training
-Pattern Question Answer
